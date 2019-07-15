@@ -15,6 +15,10 @@ On your first use, you'll need to login on a gmail account and list all products
 On your later uses, you'll be allowed to change the email address or password and change the links to track.
 If you change the products, all previous products registered will be deleted from urls.txt.
 
+## Creating a custom gmail password
+Follow the guide from Google Support
+[Google Support](https://support.google.com/accounts/answer/185833?hl=pt-BR)
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
