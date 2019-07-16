@@ -16,7 +16,7 @@ On your later uses, you'll be allowed to change the email address or password an
 If you change the products, all previous products registered will be deleted from urls.txt.
 
 ## Creating a custom gmail password
-Follow the guide from Google Support
+Follow the guide from 
 [Google Support](https://support.google.com/accounts/answer/185833?hl=pt-BR)
 
 ## Contributing
